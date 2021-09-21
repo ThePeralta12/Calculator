@@ -6,3 +6,6 @@ Calculator is used for making mathematcical calculations, in particular a small 
 
 ## What are its functions?
 Currently, My calculator can do only addition, subtraction, multiplication, and division
+
+## When was this completed?
+This project took me a whole week to learn and understand before i could implement this into VSC
